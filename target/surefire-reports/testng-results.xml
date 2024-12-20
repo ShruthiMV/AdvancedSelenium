@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-16T12:56:16 IST" name="Suite" finished-at="2024-12-16T12:57:19 IST" duration-ms="62740">
+    <groups>
+      <group name="regression">
+        <method signature="CreateProduct.CreateProduct()[pri:0, instance:DDT.CreateProduct@5876a9af]" name="CreateProduct" class="DDT.CreateProduct"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2024-12-16T12:56:16 IST" name="Test" finished-at="2024-12-16T12:57:19 IST" duration-ms="62740">
+      <class name="DDT.Create_Campaign">
+        <test-method is-config="true" signature="bs()[pri:0, instance:DDT.Create_Campaign@294425a7]" started-at="2024-12-16T12:56:16 IST" name="bs" finished-at="2024-12-16T12:56:16 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:DDT.Create_Campaign@294425a7]" started-at="2024-12-16T12:56:16 IST" name="bt" finished-at="2024-12-16T12:56:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:DDT.Create_Campaign@294425a7]" started-at="2024-12-16T12:56:16 IST" name="bc" finished-at="2024-12-16T12:56:19 IST" duration-ms="2715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:DDT.Create_Campaign@294425a7]" started-at="2024-12-16T12:56:19 IST" name="bm" finished-at="2024-12-16T12:56:35 IST" duration-ms="16030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="Create_Campaign()[pri:0, instance:DDT.Create_Campaign@294425a7]" started-at="2024-12-16T12:56:35 IST" name="Create_Campaign" finished-at="2024-12-16T12:57:01 IST" duration-ms="26567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_Campaign -->
+        <test-method is-config="true" signature="am()[pri:0, instance:DDT.Create_Campaign@294425a7]" started-at="2024-12-16T12:57:01 IST" name="am" finished-at="2024-12-16T12:57:04 IST" duration-ms="2028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:DDT.Create_Campaign@294425a7]" started-at="2024-12-16T12:57:04 IST" name="ac" finished-at="2024-12-16T12:57:04 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:DDT.Create_Campaign@294425a7]" started-at="2024-12-16T12:57:19 IST" name="at" finished-at="2024-12-16T12:57:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:DDT.Create_Campaign@294425a7]" started-at="2024-12-16T12:57:19 IST" name="as" finished-at="2024-12-16T12:57:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- DDT.Create_Campaign -->
+      <class name="DDT.CreateProduct">
+        <test-method is-config="true" signature="bc()[pri:0, instance:DDT.CreateProduct@5876a9af]" started-at="2024-12-16T12:57:04 IST" name="bc" finished-at="2024-12-16T12:57:05 IST" duration-ms="1045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:DDT.CreateProduct@5876a9af]" started-at="2024-12-16T12:57:05 IST" name="bm" finished-at="2024-12-16T12:57:08 IST" duration-ms="2910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="CreateProduct()[pri:0, instance:DDT.CreateProduct@5876a9af]" started-at="2024-12-16T12:57:08 IST" name="CreateProduct" finished-at="2024-12-16T12:57:17 IST" duration-ms="9650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateProduct -->
+        <test-method is-config="true" signature="am()[pri:0, instance:DDT.CreateProduct@5876a9af]" started-at="2024-12-16T12:57:17 IST" name="am" finished-at="2024-12-16T12:57:18 IST" duration-ms="1094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:DDT.CreateProduct@5876a9af]" started-at="2024-12-16T12:57:18 IST" name="ac" finished-at="2024-12-16T12:57:19 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- DDT.CreateProduct -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
