@@ -35,7 +35,7 @@ import ObjectRepo.LoginVtigerPage;
 //@Listeners(Generic_Utilities.ListenerImp.class)
 
 
-@Listeners(Generic_Utilities.ExtentReport.class)
+//@Listeners(Generic_Utilities.ExtentReport.class)
 public class Create_Campaign  extends Base_Class{
 	
 //	@Test(retryAnalyzer = Generic_Utilities.RetryAnalyser.class)

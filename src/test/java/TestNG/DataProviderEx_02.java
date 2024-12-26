@@ -53,19 +53,19 @@ public class DataProviderEx_02 {
 		driver.quit();
   }
 	
-	@DataProvider
+	/*@DataProvider
 	public Object[][] readData() throws Throwable
 	{
 	Excel_Utilities elib = new Excel_Utilities();	
 	Object[][] values = elib.readExcelDataForDataProvider("DataProvider");
 		return values;
 		
-	}
+	}*/
 
 	
 		
 	
-	/*	@DataProvider
+		@DataProvider
 	public Object[][] readData() {
 
 		Random ran = new Random();
@@ -86,7 +86,7 @@ public class DataProviderEx_02 {
 
 		return obj;
 
-	} */
+	} 
 	
 	
 	

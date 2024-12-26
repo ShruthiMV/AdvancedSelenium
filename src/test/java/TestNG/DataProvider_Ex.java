@@ -10,7 +10,7 @@ public class DataProvider_Ex {
 	@Test(dataProvider="getData")
 	public void bookTickets(String src, String dest, int people) {
 		
-	System.out.println("Book tickets from " +src+ " to " +dest+  "number of people travelling are " +people);	
+	System.out.println("Book tickets from " +src+ " to " +dest+  " and number of people travelling are " +people);	
 		
 	}
 	
