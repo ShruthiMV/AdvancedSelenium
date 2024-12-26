@@ -24,7 +24,7 @@ import ObjectRepo.LoginVtigerPage;
 import Generic_Utilities.File_Utilities;
 
 //Base class update1
-//pulling from github_01
+//Update 02
 public class Base_Class {
 	
 	public WebDriver driver;
